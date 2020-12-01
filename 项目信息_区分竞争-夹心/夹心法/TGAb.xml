@@ -16,7 +16,7 @@
 <CalPointConc>0,8,25,120,600,1800</CalPointConc>
 <QCPointNumber>2</QCPointNumber>
 <QCPoints>S3,S5</QCPoints>
-<ProjectProcedure>S-30-ul;R1-30-ul;R2-30-ul;H-15-min;B-30-ul;H-5-min;W-300-ul;T-200-ml;D-10-s</ProjectProcedure>
+<ProjectProcedure>S-30-ul;R1-30-ul;R2-30-ul;H-15-min;B-30-ul;H-5-min;W-300-ul;T-200-ul;D-10-s</ProjectProcedure>
 <CalMode>2</CalMode>
 <CalMethod>6</CalMethod>
 <CalculateMethod>0</CalculateMethod>
