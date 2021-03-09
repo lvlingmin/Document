@@ -13,7 +13,7 @@
 <MinValue>0</MinValue>
 <MaxValue>2400</MaxValue>
 <CalPointNumber>6</CalPointNumber>
-<CalPointConc>0,100,250,450,900,2400</CalPointConc>
+<CalPointConc>0,30,250,450,900,2000</CalPointConc>
 <QCPointNumber>2</QCPointNumber>
 <QCPoints>S3,S5</QCPoints>
 <ProjectProcedure>S-60-ul;R1-30-ul;B-30-ul;H-30-min;W-300-ul;T-200-ul;D-10-s</ProjectProcedure>
