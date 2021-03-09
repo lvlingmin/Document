@@ -7,11 +7,11 @@
 <DiluteCount>1</DiluteCount>
 <RangeType>3</RangeType>
 <VRangeType>0</VRangeType>
-<ValueRange1>0-120</ValueRange1>
+<ValueRange1>0.21-30</ValueRange1>
 <ValueRange2> </ValueRange2>
-<ValueUnit>mIU-ml</ValueUnit>
+<ValueUnit>ng/mL</ValueUnit>
 <MinValue>0</MinValue>
-<MaxValue>2400</MaxValue>
+<MaxValue>2000</MaxValue>
 <CalPointNumber>6</CalPointNumber>
 <CalPointConc>0,30,250,450,900,2000</CalPointConc>
 <QCPointNumber>2</QCPointNumber>
